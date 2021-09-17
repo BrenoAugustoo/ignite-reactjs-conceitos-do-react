@@ -1,7 +1,9 @@
 # ignite-reactjs-conceitos-do-react
 Desafio 01 do Bootcamp Ignite.
 
-<h1>Aplicação</>
+<img src="https://i.imgur.com/NVHtMin.png">
+
+<h1>Aplicação</h1>
 
 <p>O desafio consiste em adicionar funcionalidades para uma aplicação de lista de tarefas</p>
 
