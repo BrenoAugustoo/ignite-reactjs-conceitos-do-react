@@ -7,7 +7,7 @@ Desafio 01 do Bootcamp Ignite.
 
 <p>O desafio consiste em adicionar funcionalidades para uma aplicação de lista de tarefas</p>
 
-Aa seguintes funcionalidades foram implementadas seguindo os critérios propostos pelo desafio:
+Aa seguintes funcionalidades foram implementadas e testadas seguindo os critérios propostos pelo desafio:
 
 * Criar novas tarefas
 * Marcar uma tarefa como concluída
@@ -17,6 +17,7 @@ Aa seguintes funcionalidades foram implementadas seguindo os critérios proposto
 
 * ReactJS
 * TypeScript
+* Jest
 
 Autor
 
